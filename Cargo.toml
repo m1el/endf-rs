@@ -2,6 +2,7 @@
 name = "endf"
 version = "0.1.0"
 authors = ["Igor Null <m1el.2027@gmail.com>"]
+license = "MIT"
 
 [dependencies]
 ndarray = "0.11.0"
